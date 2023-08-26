@@ -1,2 +1,2 @@
-# UI-Figm-design
+# UI-Figma-design
 my first figma design
